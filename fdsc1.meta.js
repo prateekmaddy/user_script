@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name     Minerva
-// @version  1.1
+// @version  1
+// @grant    none
 // @include  *
 // @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
 // @downloadURL https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
-// @grant         None
-
 // ==/UserScript==
 
 
@@ -33,6 +32,6 @@
         p.replaceChild(frag, textNode);
     }
 }
-highlightWord('');
 highlightWord('CVG9');
-highlightWord('');
+highlightWord('ONT5');
+highlightWord('AZNG');
