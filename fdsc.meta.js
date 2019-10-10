@@ -2,7 +2,7 @@
 // @name          98844
 // @namespace     Prateek
 // @author        Prateek Shrivastava- prashri- Amazon
-// @version       0.1
+// @version       1.1
 // @description   Lane Highlighter
 // @include       *
 // @grant         GM_registerMenuCommand
@@ -85,7 +85,7 @@
   // prepare UserPrefs
   setUserPref(
   'keywords',
-  'MKE1,ONT5,TPA1',
+  'Password,Username,Midway',
   'Set Keywords',
   'Set keywords separated by comma\t\t\t\t\t\t\t\r\n\r\nExample:\r\nword 1,word 2,word 3',
   ','
