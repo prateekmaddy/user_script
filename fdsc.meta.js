@@ -8,8 +8,8 @@
 // @grant         GM_registerMenuCommand
 // @grant         GM_setValue
 // @grant         GM_getValue
-// @updateURL   https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.meta.js
-// @downloadURL https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.meta.js
+// @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc.meta.js
+// @downloadURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc.meta.js
 // ==/UserScript==
 
 /* --------- Note ---------
