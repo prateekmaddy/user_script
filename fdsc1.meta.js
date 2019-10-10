@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name     Minerva
 // @version  1
-// @grant    none
 // @include  *
 // @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
 // @downloadURL https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
+// @grant         GM_registerMenuCommand
+// @grant         GM_setValue
+// @grant         GM_getValue
 // ==/UserScript==
 
 
@@ -32,6 +34,6 @@
         p.replaceChild(frag, textNode);
     }
 }
-highlightWord('Midway');
+highlightWord('Route');
 highlightWord('ONT5');
 highlightWord('AZNG');
