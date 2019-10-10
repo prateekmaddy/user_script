@@ -2,7 +2,7 @@
 // @name          98844
 // @namespace     Prateek
 // @author        Prateek Shrivastava- prashri- Amazon
-// @version       1.45
+// @version       1.48
 // @description   Lane Highlighter
 // @include       *
 // @grant         GM_registerMenuCommand
