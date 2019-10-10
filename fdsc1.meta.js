@@ -33,5 +33,5 @@
     }
 }
 highlightWord('CVG9');
-highlightWord('');
-highlightWord('');
+highlightWord('ONT5');
+highlightWord('AZNG');
