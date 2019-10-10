@@ -2,7 +2,7 @@
 // @name          98844
 // @namespace     Prateek
 // @author        Prateek Shrivastava- prashri- Amazon
-// @version       1.2
+// @version       1.3
 // @description   Lane Highlighter
 // @include       *
 // @grant         GM_registerMenuCommand
@@ -85,7 +85,7 @@
   // prepare UserPrefs
   setUserPref(
   'keywords',
-  'Password,Username,Midway',
+  'Password,Greasemonkey,Midway',
   'Set Keywords',
   'Set keywords separated by comma\t\t\t\t\t\t\t\r\n\r\nExample:\r\nword 1,word 2,word 3',
   ','
