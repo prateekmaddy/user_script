@@ -9,7 +9,7 @@
 // @grant         GM_setValue
 // @grant         GM_getValue
 // @updateURL   https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.meta.js
-
+// @downloadURL https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fdsc/fdsc.meta.js
 // ==/UserScript==
 
 /* --------- Note ---------
