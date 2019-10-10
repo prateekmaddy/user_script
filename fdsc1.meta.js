@@ -4,9 +4,8 @@
 // @include  *
 // @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
 // @downloadURL https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
-// @grant         GM_registerMenuCommand
-// @grant         GM_setValue
-// @grant         GM_getValue
+// @grant         None
+
 // ==/UserScript==
 
 
@@ -34,6 +33,6 @@
         p.replaceChild(frag, textNode);
     }
 }
-highlightWord('ONT5');
+highlightWord('');
 highlightWord('CVG9');
-highlightWord('AZNG');
+highlightWord('');
