@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Minerva
-// @version  1
+// @version  1.1
 // @include  *
 // @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
 // @downloadURL https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
@@ -34,6 +34,6 @@
         p.replaceChild(frag, textNode);
     }
 }
-highlightWord('Route');
 highlightWord('ONT5');
+highlightWord('CVG9');
 highlightWord('AZNG');
