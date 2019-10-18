@@ -8,7 +8,7 @@
 // @grant         GM_registerMenuCommand
 // @grant         GM_setValue
 // @grant         GM_getValue
-// @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc.meta.js
+// @updateURL     https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc.meta.js
 // @downloadURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc.meta.js
 // ==/UserScript==
 
@@ -85,7 +85,7 @@
   // prepare UserPrefs
   setUserPref(
   'keywords',
-  ',,TPA1',
+  'TUS2,Greasemonkey,DFW7',
   'Set Keywords',
   'Set keywords separated by comma\t\t\t\t\t\t\t\r\n\r\nExample:\r\nword 1,word 2,word 3',
   ','
