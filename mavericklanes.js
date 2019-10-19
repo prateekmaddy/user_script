@@ -20,7 +20,7 @@
             var node;
             if (i) {
                 node = document.createElement('span');
-                node.style.backgroundColor = 'red';
+                node.style.backgroundColor = 'lightblue';
                 node.appendChild(document.createTextNode(word));
                 frag.appendChild(node);
             }
@@ -36,15 +36,15 @@
 highlightWord('LAS5->SLCX')
 highlightWord('AVP4->BWIX')
 highlightWord('AVP4->BWIY')
-highlightWord('IVSA->')
-highlightWord('IVSB->')
-highlightWord('ONT2->')
+highlightWord('IVSA->CVG9')
+highlightWord('IVSB->CVG9')
+highlightWord('ONT2->ONT5')
 highlightWord('BFI4->BFI5')
 highlightWord('MKE1->MKE5')
 highlightWord('BWI2->BWI5')
 highlightWord('CVG7->CVG5')
-highlightWord('CVG7->')
-highlightWord('->CVG5')
+highlightWord('CVG7->CVG9')
+highlightWord('CVG9->CVG5')
 highlightWord('DFW9->DFW8')
 highlightWord('SNA9->SNA6')
 highlightWord('EWR7->EWR5')
@@ -58,7 +58,7 @@ highlightWord('FTW2->DAL9')
 highlightWord('ATL8->DAL9')
 highlightWord('MDW8->DAL9')
 highlightWord('ACY5->MTN5')
-highlightWord('DTW5->')
+highlightWord('DTW5->CVG9')
 highlightWord('DTW5->MGE5')
 highlightWord('MGE5->ACY5')
 highlightWord('MGE5->BDL5')
@@ -99,7 +99,8 @@ highlightWord('DFW6->HOU1')
 highlightWord('STL4->MEM5')
 highlightWord('TPA1->MGE5')
 highlightWord('BFI4->PDX5')
-highlightWord('MTN5->')
+highlightWord('MTN5->CVG9')
 highlightWord('MTN5->DTW5')
 highlightWord('MTN5->EWR8')
 highlightWord('MTN5->MGE5')
+
