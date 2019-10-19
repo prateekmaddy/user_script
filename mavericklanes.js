@@ -3,8 +3,8 @@
 // @version  1.0
 // @grant    none
 // @include  *
-// @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
-// @downloadURL https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
+// @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/mavericklanes.js
+// @downloadURL https://raw.githubusercontent.com/prateekmaddy/user_script/master/mavericklanes.js
 // ==/UserScript==
 
 
