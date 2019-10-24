@@ -85,7 +85,7 @@
   // prepare UserPrefs
   setUserPref(
   'keywords',
-  'TUS2,Greasemonkey,DFW7',
+  'OKC1',
   'Set Keywords',
   'Set keywords separated by comma\t\t\t\t\t\t\t\r\n\r\nExample:\r\nword 1,word 2,word 3',
   ','
