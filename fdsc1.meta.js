@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Minerva
-// @version  2.1
+// @version  2.2
 // @grant    none
 // @include  *
 // @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc1.meta.js
@@ -32,11 +32,7 @@
         p.replaceChild(frag, textNode);
     }
 }
-highlightWord('DEN2');
-highlightWord('DEN3');
-highlightWord('DEN5');
 highlightWord('KDEN');
-highlightWord('DDE5');
 highlightWord('DCS1');
 highlightWord('DDE8');
 highlightWord('DDE6');
