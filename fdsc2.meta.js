@@ -35,7 +35,7 @@
     }
 }
 
-highlightWord('->-CYC1')
+highlightWord('->DBM2-CYC1')
 highlightWord('->DPX6-CYC2')
 highlightWord('->DPX6-CYC2')
 highlightWord('->DPX6-CYC2')
@@ -45,8 +45,8 @@ highlightWord('->DBO2-CYC1')
 highlightWord('->DBO6-CYC1')
 highlightWord('->DRI1-CYC1')
 highlightWord('->DRI1-A')
-highlightWord('->-B')
-highlightWord('->-B')
+highlightWord('->DBM2-B')
+highlightWord('->DBM2-B')
 highlightWord('->DDA1-CYC1')
 highlightWord('->DDE5-CYC2')
 highlightWord('->DDE5-CYC2')
