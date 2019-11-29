@@ -33,9 +33,19 @@
         });
         p.replaceChild(frag, textNode);
     }
-}highlightWord('22')
-highlightWord('')
-highlightWord('')
-highlightWord('')
-highlightWord('')
-highlightWord('')
+}
+
+highlightWord('BDL2->DRO1-A')
+highlightWord('BDL3->DBO6-A')
+highlightWord('BWI2->DEW1')
+highlightWord('BWI2->DEW1')
+highlightWord('CLE2->DRO1-A')
+highlightWord('CMH1->DLI1-A')
+highlightWord('EWR4->DRO1-A')
+highlightWord('EWR9->DBO6-A')
+highlightWord('HOU2->DLB1-A')
+highlightWord('IND1->DLI1-A')
+highlightWord('JAX2->DBM2-A')
+highlightWord('JFK8->DBO6-A')
+highlightWord('MDW7->DLI1')
+highlightWord('MSP1->DOM1-A')
