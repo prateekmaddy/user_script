@@ -34,8 +34,8 @@
         p.replaceChild(frag, textNode);
     }
 }highlightWord('EWR4->DBO6-A')
-highlightWord('')
+highlightWord('EWR4->DRO1-A')
 highlightWord('JFK8->DBO6-A')
 highlightWord('JFK8->DRO1-A')
-highlightWord('')
-highlightWord('')
+highlightWord('PDX5->DPD1-CYC2')
+highlightWord('TPA1->DBM2-A')
