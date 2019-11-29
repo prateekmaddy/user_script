@@ -33,7 +33,7 @@
         });
         p.replaceChild(frag, textNode);
     }
-}highlightWord('EWR4')
+}highlightWord('22')
 highlightWord('')
 highlightWord('')
 highlightWord('')
