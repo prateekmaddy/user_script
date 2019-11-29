@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Destination Caps Highlighter
-// @version  1.3
+// @version  1.4
 // @grant    none
 // @include  *
 // @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc2.meta.js
@@ -34,7 +34,6 @@
         p.replaceChild(frag, textNode);
     }
 }
-
 highlightWord('ATL6-->DBM2-CYC1')
 highlightWord('AZA5-->DPX6-CYC2')
 highlightWord('AZA5-->DPX6-CYC2')
@@ -75,3 +74,4 @@ highlightWord('RNO4-->DSF5-B')
 highlightWord('SMF1-->DSF5-B')
 highlightWord('STL5-->DLI1-CYC1')
 highlightWord('TPA2-->DMO3-B');
+
