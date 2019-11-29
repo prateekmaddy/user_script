@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Destination Caps Highlighter
-// @version  1.5
+// @version  1.6
 // @grant    none
 // @include  *
 // @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc2.meta.js
@@ -34,30 +34,30 @@
         p.replaceChild(frag, textNode);
     }
 }
-highlightWord('AZA5-->DPX6-CYC2')
-highlightWord('AZA5-->DPX6-CYC2')
-highlightWord('AZA5-->DPX6-CYC2')
-highlightWord('AZA5-->DPX6-CYC2')
-highlightWord('DAL9-->DDA1-CYC2')
-highlightWord('DEN5-->DDE5-CYC2')
-highlightWord('DEN5-->DDE5-CYC2')
-highlightWord('DEN5-->DDE5-CYC2')
-highlightWord('DEN5-->DDE5-CYC2')
-highlightWord('EWR4-->DRO1-A')
-highlightWord('HOU1-->DHO1-CYC2')
-highlightWord('HOU1-->DHO1-CYC2')
-highlightWord('HOU1-->DHO1-CYC2')
-highlightWord('HOU1-->DHO1-CYC2')
-highlightWord('JFK8-->DRO1-A')
-highlightWord('MCI5-->DMC1-CYC2')
-highlightWord('MCI5-->DMC1-CYC2')
-highlightWord('MCI5-->DMC1-CYC2')
-highlightWord('MCI5-->DMC1-CYC2')
-highlightWord('MCI5-->DMC2-CYC2')
-highlightWord('MKE5-->DML2-CYC2')
-highlightWord('MKE5-->DML2-CYC2')
-highlightWord('MKE5-->DML2-CYC2')
-highlightWord('MKE5-->DML2-CYC2')
-highlightWord('MSP9-->DMS1-CYC2')
-highlightWord('PDX5-->DPD1-CYC2')
-highlightWord('TPA1-->DBM2-A');
+highlightWord('AZA5->DPX6-CYC2')
+highlightWord('AZA5->DPX6-CYC2')
+highlightWord('AZA5->DPX6-CYC2')
+highlightWord('AZA5->DPX6-CYC2')
+highlightWord('DAL9->DDA1-CYC2')
+highlightWord('DEN5->DDE5-CYC2')
+highlightWord('DEN5->DDE5-CYC2')
+highlightWord('DEN5->DDE5-CYC2')
+highlightWord('DEN5->DDE5-CYC2')
+highlightWord('EWR4->DRO1-A')
+highlightWord('HOU1->DHO1-CYC2')
+highlightWord('HOU1->DHO1-CYC2')
+highlightWord('HOU1->DHO1-CYC2')
+highlightWord('HOU1->DHO1-CYC2')
+highlightWord('JFK8->DRO1-A')
+highlightWord('MCI5->DMC1-CYC2')
+highlightWord('MCI5->DMC1-CYC2')
+highlightWord('MCI5->DMC1-CYC2')
+highlightWord('MCI5->DMC1-CYC2')
+highlightWord('MCI5->DMC2-CYC2')
+highlightWord('MKE5->DML2-CYC2')
+highlightWord('MKE5->DML2-CYC2')
+highlightWord('MKE5->DML2-CYC2')
+highlightWord('MKE5->DML2-CYC2')
+highlightWord('MSP9->DMS1-CYC2')
+highlightWord('PDX5->DPD1-CYC2')
+highlightWord('TPA1->DBM2-A');
