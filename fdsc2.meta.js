@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Destination Caps Highlighter
-// @version  1.8
+// @version  1.9
 // @grant    none
 // @include  *
 // @updateURL   https://raw.githubusercontent.com/prateekmaddy/user_script/master/fdsc2.meta.js
